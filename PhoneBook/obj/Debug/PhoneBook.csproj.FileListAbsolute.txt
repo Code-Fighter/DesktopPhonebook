@@ -1,0 +1,32 @@
+I:\VProgrem C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+I:\VProgrem C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+G:\c#\Kamrul\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+G:\c#\Kamrul\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+G:\c#\Kamrul\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+G:\c#\Kamrul\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+G:\c#\Kamrul\PhoneBook\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+G:\c#\Kamrul\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+G:\c#\Kamrul\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+G:\c#\Kamrul\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\mv\ss\My Works\C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBookUI.resources
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+F:\ASP.NET\WindowForm\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache

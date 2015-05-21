@@ -1,0 +1,229 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.Designer.cs" caret="90624" scrollPosition="0|1455" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="333" scrollPosition="0|3" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="3349" scrollPosition="0|51" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="1452" scrollPosition="0|37" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="3621" scrollPosition="0|91" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="5910" scrollPosition="0|112" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="5756" scrollPosition="0|97" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="5120" scrollPosition="0|98" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="5587" scrollPosition="0|101" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="3937" scrollPosition="0|99" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="6057" scrollPosition="0|136" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="6057" scrollPosition="0|136" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="8093" scrollPosition="0|169" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="6524" scrollPosition="0|151" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="7798" scrollPosition="0|166" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="9274" scrollPosition="0|174" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="10270" scrollPosition="0|205" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="9189" scrollPosition="0|193" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="10123" scrollPosition="0|200" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="10497" scrollPosition="0|218" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="10510" scrollPosition="0|247" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.Designer.cs" caret="90624" scrollPosition="0|1455" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="11690" scrollPosition="0|255" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="10868" scrollPosition="0|232" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="10385" scrollPosition="0|218" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="520" scrollPosition="0|18" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="11701" scrollPosition="0|250" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="3176" scrollPosition="0|37" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="846" scrollPosition="0|12" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="11692" scrollPosition="0|254" />
+      <File id="6E69DB13-72BD-4B99-99D5-8BCBC8F6E8C8/f:Form1.cs" caret="2468" scrollPosition="0|72" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="SqlConnection" priority="1" />
+      <Item value="new" priority="5" />
+      <Item value="SqlCommand" priority="0" />
+      <Item value="String" priority="0" />
+      <Item value="saveNameTextBox" priority="1" />
+      <Item value="nationality" priority="0" />
+      <Item value="mobile" priority="1" />
+      <Item value="saveMobileTextBox" priority="0" />
+      <Item value="phone" priority="1" />
+      <Item value="savePhoneTextBox" priority="0" />
+      <Item value="fax" priority="1" />
+      <Item value="saveFaxTextBox" priority="0" />
+      <Item value="email" priority="1" />
+      <Item value="saveEmailTextBox" priority="0" />
+      <Item value="website" priority="1" />
+      <Item value="saveWebsiteTextBox" priority="0" />
+      <Item value="homeDistrict" priority="1" />
+      <Item value="saveHomeDistrictTextBox" priority="0" />
+      <Item value="saveDistrictComboBox" priority="0" />
+      <Item value="dateOfBirth" priority="1" />
+      <Item value="saveDataofBirthMaskedTextBox" priority="0" />
+      <Item value="religon" priority="1" />
+      <Item value="saveReligionComboBox" priority="0" />
+      <Item value="sex" priority="1" />
+      <Item value="saveSexComboBox" priority="0" />
+      <Item value="bloodGroup" priority="1" />
+      <Item value="saveBloodGroupComboBox" priority="0" />
+      <Item value="try" priority="4" />
+      <Item value="MessageBox" priority="3" />
+      <Item value="ex" priority="4" />
+      <Item value="OpenFileDialog" priority="1" />
+      <Item value="dlg" priority="3" />
+      <Item value="if" priority="1" />
+      <Item value="DialogResult" priority="0" />
+      <Item value="savePictureBox" priority="0" />
+      <Item value="imgLoc" priority="2" />
+      <Item value="byte" priority="2" />
+      <Item value="null" priority="2" />
+      <Item value="FileStream" priority="1" />
+      <Item value="FileMode" priority="0" />
+      <Item value="FileAccess" priority="0" />
+      <Item value="BinaryReader" priority="1" />
+      <Item value="fs" priority="1" />
+      <Item value="img" priority="4" />
+      <Item value="br" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="command" priority="0" />
+      <Item value="SqlParameter" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="searchTextBox" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="messageLabel" priority="0" />
+      <Item value="showNameTextBox" priority="0" />
+      <Item value="showMobileTextBox" priority="0" />
+      <Item value="showPhoneTextBox" priority="0" />
+      <Item value="showFaxTextBox" priority="0" />
+      <Item value="showEmailTextBox" priority="0" />
+      <Item value="showWebsiteTextBox" priority="0" />
+      <Item value="showHomeDistrictTextBox" priority="0" />
+      <Item value="showDateOfBirthTextBox" priority="0" />
+      <Item value="showReligionTextBox" priority="0" />
+      <Item value="showSexTextBox" priority="0" />
+      <Item value="showBolldGroupTextBox" priority="0" />
+      <Item value="tableReader1" priority="5" />
+      <Item value="showPictureBox" priority="1" />
+      <Item value="MemoryStream" priority="1" />
+      <Item value="Image" priority="0" />
+      <Item value="searchUpdateTextBox" priority="1" />
+      <Item value="updatetNameTextBox" priority="1" />
+      <Item value="updateMobileTextBox" priority="0" />
+      <Item value="updatePhoneTextBox" priority="1" />
+      <Item value="updateFaxTextBox" priority="1" />
+      <Item value="updateEmailTextBox" priority="1" />
+      <Item value="updateWebsiteTextBox" priority="1" />
+      <Item value="updateHomeDistrictTextBox" priority="1" />
+      <Item value="UpdateDefaultButton" priority="0" />
+      <Item value="updateBirthMaskedTextBox" priority="0" />
+      <Item value="updateReligionTextBox" priority="1" />
+      <Item value="updateSexTextBox" priority="1" />
+      <Item value="updateBloodGroupTextBox" priority="1" />
+      <Item value="updateMessageLabel" priority="0" />
+      <Item value="Message" priority="0" />
+      <Item value="deleteSearchTextBox" priority="0" />
+      <Item value="deleteMessageLabel" priority="0" />
+      <Item value="timeLabel" priority="0" />
+      <Item value="DateTime" priority="1" />
+      <Item value="dateLabel" priority="0" />
+      <Item value="contactDataGridView" priority="1" />
+      <Item value="searchViewContactTextBox" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.MaskedTextBox">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="Filter" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="ShowDialog" priority="0" />
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="2" />
+      <Item value="ImageLocation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileMode">
+      <Item value="Open" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.FileAccess">
+      <Item value="Read" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.BinaryReader">
+      <Item value="ReadBytes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="Parameters" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="HasRows" priority="0" />
+      <Item value="Read" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromStream" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToLongTimeString" priority="0" />
+      <Item value="ToLongDateString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="Rows" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="4" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

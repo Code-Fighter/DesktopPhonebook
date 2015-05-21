@@ -1,0 +1,8 @@
+I:\VProgrem C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+I:\VProgrem C#\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\ResolveAssemblyReference.cache
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+I:\VProgrem C#\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
